@@ -6,3 +6,4 @@ const pi = 3.14159; //const variables are block-scoped, much like variables defi
 console.log('number:', number);
 console.log('obj:', obj);
 console.log('pi:', pi);
+console.log('0-);
